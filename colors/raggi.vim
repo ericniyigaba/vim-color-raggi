@@ -5,7 +5,7 @@
 " Homepage: http://github.com/raggi/vim-color-raggi
 
 " Started from the github conversion theme, but adjusted for practical
-" authoring. 
+" authoring.
 " Additional thanks to Andy Ferra for design and vim tooling assistance
 " The original author of the github theme is:
 " Bruno Michel <bmichel@menfin.info>
@@ -43,7 +43,7 @@ hi Number                 term=NONE            cterm=NONE             ctermbg=bg
 hi Boolean                term=NONE            cterm=bold             ctermbg=bg            ctermfg=fg   gui=bold            guibg=bg       guifg=fg
 hi Include                term=NONE            cterm=bold             ctermbg=bg            ctermfg=38   gui=bold            guibg=bg       guifg=#0086b3
 hi Define                 term=NONE            cterm=bold             ctermbg=bg            ctermfg=16   gui=bold            guibg=bg       guifg=#000000
-hi SpecialKey             term=bold            cterm=NONE             ctermbg=bg            ctermfg=188  gui=NONE            guibg=bg       guifg=#cccccc
+hi SpecialKey             term=bold            cterm=NONE             ctermbg=bg            ctermfg=196  gui=NONE            guibg=bg       guifg=#cccccc
 hi NonText                term=bold            cterm=bold             ctermbg=bg            ctermfg=102  gui=bold            guibg=bg       guifg=#dddddd
 hi Directory              term=bold            cterm=NONE             ctermbg=bg            ctermfg=74   gui=NONE            guibg=bg       guifg=#4183c4
 hi ErrorMsg               term=NONE            cterm=bold             ctermbg=188           ctermfg=124  gui=bold            guibg=#e3d2d2  guifg=#a61717
